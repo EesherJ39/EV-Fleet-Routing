@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+python:
+  solverUrl: ${PY_SOLVER_URL:http://localhost:8000}
